@@ -6,4 +6,4 @@
 
 ;;; https://github.com/clojure-emacs/cider/issues/2396
 
-((clojure-mode . ((cider-clojure-cli-global-options . "-A:fig"))))
+((clojure-mode . ((cider-clojure-cli-aliases . ":fig"))))
